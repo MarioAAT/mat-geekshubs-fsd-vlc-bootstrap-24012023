@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+.box{
+    background-color: coral;
+    height: 100vh;
+}
+
+.box1{
+    background-color: darkorchid;
+    height: 10vh;
+}
+
+.box2{
+    background-color: royalblue;
+    height: 60vh;
+}
+
+.box3{
+    background-color: orchid;
+    height: 60vh;
+}
+
+.box4, .box5, .box6, .box7, .box8, .box9{
+    background-color: cornflowerblue;
+    height: 15vh;
+}
+
+.box10{
+    background-color: fuchsia;
+    height: 15vh;
+}
+
+
+
+
